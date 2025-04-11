@@ -1,0 +1,36 @@
+20	Summit	12000 Santa Paula-Ojai Road	Ojai	93023	805-933-7452	(805) 371-1111 x20
+21	Ojai	1201 E. Ojai Avenue	Ojai	93023	805-640-2773	(805) 371-1111 x21
+22	Meiners Oaks	466 S. La Luna Avenue	Ojai	93023	805-640-2777	(805) 371-1111 x22
+23	Oak View - Battalion 2 Hdqs.	15 Kunkle Street	Oak View	93022	805-649-6010	(805) 371-1111 x23
+25	Rincon	5674 W. Pacific Coast Highway	Ventura	93001	805-652-6414	(805) 371-1111 x25
+26	West Santa Paula	536 W. Main St.	Santa Paula	93060	805-389-9766	(805) 371-1111 x26
+27	Fillmore	133 C St.	Fillmore	93015	805-524-6610	(805) 371-1111 x27
+28	Piru	513 N. Church Street	Piru	93040	805-524-6620	(805) 371-1111 x28
+29	Santa Paula	114 S. 10th Street	Santa Paula	93060	805-389-9755	(805) 371-1111 x29
+30	Civic Center - Battalion 3 Hdqs.	325 W. Hillcrest Drive	Thousand Oaks	91360	805-371-0466	(805) 371-1111 x30
+31	Westlake	151 Duesenberg Drive	Thousand Oaks	91362	805-371-0472	(805) 371-1111 x31
+32	Potrero	830 S. Reino Road	Newbury Park	91320	805-376-8850	(805) 371-1111 x32
+33	Lake Sherwood	33 Lake Sherwood Drive	Thousand Oaks	91361	805-371-0474	(805) 371-1111 x33
+34	North T.O.	2977 Mountclef Blvd.	Thousand Oaks	91360	805-241-4821	(805) 371-1111 x34
+35	Newbury Park	751 Mitchell Rd	Newbury Park	91320	805-376-8852	(805) 371-1111 x35
+36	Oak Park	855 Deerhill Road	Oak Park	91377	818-597-2954	(805) 371-1111 x36
+37	North Ranch	2010 Upper Ranch Road	Thousand Oaks	91362	805-371-0483	(805) 371-1111 x37
+38	Arboles	555 E. Avendia de los Arboles	Thousand Oaks		0	0
+39	Rancho Conejo 	2500 W. Hillcrest Drive	Newbury Park	91320	0	0
+40	Mountain Meadows	4185 Cedar Springs Street	Moorpark	93021	805-378-7000	(805) 371-1111 x40
+41	Simi Valley - Battalion 4 Hdqs.	1910 Church Street	Simi Valley	93065	805-578-2050	(805) 371-1111 x41
+42	Moorpark	295 E. High Street	Moorpark	93021	805-378-7007	(805) 371-1111 x42
+43	Yosemite	5874 E. Los Angeles Avenue	Simi Valley	93063	805-578-2060	(805) 371-1111 x43
+44	Wood Ranch	1050 Country Club Drive	Simi Valley	93065	805-578-2080	(805) 371-1111 x44
+45	West Simi	790 Pacific Avenue	Simi Valley	93065	805-578-2088	(805) 371-1111 x45
+46	Tapo	3265 N. Tapo Street	Simi Valley	93063	805-578-2090	(805) 371-1111 x46
+47	Big Sky	2901 Erringer Rd	Simi Valley	93065	805-577-7601	(805) 371-1111 x47
+50	Airport	189 S. Las Posas Rd.	Camarillo	93010	805-383-6405	(805) 371-1111 x50
+51	Oxnard - Battalion 5 Hdqs.	3302 Turnout Park Circle	Oxnard	93036	805-278-2729	(805) 371-1111 x51
+52	Mission Oaks	5353 Santa Rosa Road	Camarillo	93012	805-383-6407	(805) 371-1111 x52
+53	Port Hueneme	304 N. Second Street	Port Hueneme	93041	805-986-8871	(805) 371-1111 x53
+54	Camarillo - Battalion 1 Hdqs.	2160 Pickwick Drive	Camarillo	93010	805-383-6409	(805) 371-1111 x54
+55	Las Posas	403 Valley Vista Drive	Camarillo	93010	805-383-6414	(805) 371-1111 x55
+56	Malibu	11855 Pacific Coast Highway	Malibu	90265	805-488-8747	(805) 371-1111 x56
+57	Somis	3356 Somis Road	Somis	93066	805-383-6417	(805) 371-1111 x57
+FS-26	Camp 13 (old FS-26)	12391 W. Telegraph RD 	Santa Paula 	93060	0	0

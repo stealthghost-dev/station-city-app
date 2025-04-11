@@ -1,0 +1,40 @@
+<div class="container py-4">
+  <h2 class="mb-4">Select City, Street & Address</h2>
+
+  <div class="row g-3">
+    <!-- City Dropdown -->
+    <div class="col-12 col-md-4">
+      <label class="form-label">City</label>
+      <select class="form-select" [(ngModel)]="selectedCity" (change)="onCityChange()">
+        <option value="">-- Select a city --</option>
+        <option *ngFor="let city of cities" [value]="city">{{ city }}</option>
+      </select>
+    </div>
+
+    <!-- Street Dropdown -->
+    <div class="col-12 col-md-4" *ngIf="streets.length > 0">
+      <label class="form-label">Street</label>
+      <select class="form-select" [(ngModel)]="selectedStreet" (change)="onStreetChange()">
+        <option value="">-- Select a street --</option>
+        <option *ngFor="let street of streets" [value]="street">{{ street }}</option>
+      </select>
+    </div>
+
+    <!-- Address Dropdown -->
+    <div class="col-12 col-md-4" *ngIf="filteredAddresses.length > 0">
+      <label class="form-label">Address</label>
+      <select class="form-select" [(ngModel)]="selectedAddress" (change)="onAddressChange()">
+        <option value="">-- Select an address --</option>
+        <option *ngFor="let addr of filteredAddresses" [ngValue]="addr">
+          {{ addr.fullAddress }}
+        </option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Station Info -->
+  <div *ngIf="stationInfo" class="alert alert-info mt-4">
+    <p><strong>Station:</strong> {{ stationInfo.number }} - {{ stationInfo.name }}</p>
+    <p><strong>Phone:</strong> {{ stationInfo.phone }}</p>
+  </div>
+</div>
